@@ -3,4 +3,6 @@ for(i=0;i<10;i++){
     console.log('test2');
     sds
 }
+
+from master test
 var b = 50;
