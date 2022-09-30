@@ -6,4 +6,6 @@ for(i=0;i<10;i++){
 }
 
 from master test
+
+added new changes fromm feature after merge
 var b = 50;
